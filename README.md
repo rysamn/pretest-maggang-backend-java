@@ -43,6 +43,8 @@ Dalam suatu schenario ada requirement membuat aplikasi e-commerse seperti Tokope
 
 Kemudian temen-temen buat design database, module (monolith/microservices) berdasarkan gambar atau schenario tersebut. Serta jelakan mengapa menggunakan design tersebut.
 
+disini saya menggunakan monolith karena karena lebih sempurna untuk proyek awal, Deployment dan debugging lebih mudah karena semua satu tempat dan tidak butuh banyak konfigurasi untuk service
+
 ## Praktek
 
 Berdasarkan analisa tersebut, buat project monorepo (pada repository ini) dengan menggunakan framework springboot seperti berikut specifikasinya:
